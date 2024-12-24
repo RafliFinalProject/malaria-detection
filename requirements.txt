@@ -3,3 +3,4 @@ Pillow==9.2.0
 tensorflow==2.16.1
 keras==3.2.1
 flask_cors
+gunicorn
